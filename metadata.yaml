@@ -1,0 +1,35 @@
+_repo: Fleur-d-Abime_72024
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aicard, Jean
+    aliases:
+    - Aicard, Jean François Victor
+    - Aicard, Jean Francois Victor
+    birthdate: 1848
+    deathdate: 1921
+    gutenberg_agent_id: '6209'
+    url: http://www.gutenberg.org/2009/agents/6209
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Aicard
+    - https://fr.wikipedia.org/wiki/Jean_Aicard
+description: ''
+gutenberg_issued: '2023-11-04'
+identifiers:
+  gutenberg: '72024'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k2067744
+pgterms:marc905: 20220416045958aicard
+pgterms:marc906: '1894'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bErnest Flammarion, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Fleur d'Abîme
+url: http://www.gutenberg.org/ebooks/72024
